@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+.container{
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-style: 3px solid black; */
+}
+#first-name-input{
+    display: inline-block;
+}
+#last-name-input{
+    display: inline-block;
+}
+#email-input{
+    display: inline-block;
+}
+#college-input{
+    display: inline-block;
+}
+#first-name-input{
+    display: inline-block;
+}
+#roll-no-input{
+    display: inline-block;
+}
